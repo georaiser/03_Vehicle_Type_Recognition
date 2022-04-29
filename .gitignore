@@ -2,4 +2,4 @@ models/*
 vehicle/*
 *.bak*
 ipynb_checkpoints/*
-gitignore
+.gitignore
