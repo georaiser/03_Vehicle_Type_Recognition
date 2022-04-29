@@ -1,4 +1,4 @@
 models/*
 vehicle/*
 *.bak*
-.ipynb_checkpoints/*
+.ipynb_checkpoints/*.*
